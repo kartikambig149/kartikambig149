@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kartik.ambig@example.com** *(replace with your actual email)*
 
-- 📄 Know more about me [Resume](https://your-resume-link.com)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1WlyaG49JWsNm_0M-o1vWquDUJd0K0rdV/view?usp=sharing)
 
 ---
 
@@ -40,6 +40,6 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/kartik-ambig" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a href="mailto:kartik.ambig@example.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
+  <a href="www.linkedin.com/in/kartik-umesh-ambig-844260296" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="ambigkartik3@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
 </p>

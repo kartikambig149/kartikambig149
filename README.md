@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Angular, Flask, Machine Learning, or Tailwind CSS**
 
-- 📫 How to reach me **kartik.ambig@example.com** *(replace with your actual email)*
+- 📫 How to reach me **ambigkartik3@gmail.com** **
 
 - 📄 Know more about me [Resume](https://drive.google.com/file/d/1WlyaG49JWsNm_0M-o1vWquDUJd0K0rdV/view?usp=sharing)
 

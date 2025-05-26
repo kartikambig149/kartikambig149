@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Kartik Umesh Ambig
 
 🎓 B.E. CSE | 💻 Web Developer | 🤖 ML Enthusiast | ⚙️ Embedded Systems  
-🔭 Currently exploring Angular 18, Tailwind CSS, and deploying ML models using Flask.
 
 ---
 

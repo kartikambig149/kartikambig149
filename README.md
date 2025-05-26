@@ -23,7 +23,7 @@ I'm an aspiring software developer passionate about creating impactful web appli
 ## 📄 Resume
 
 Want to know more about my education, projects, and experience?  
-📌 [View My Resume](https://drive.google.com/file/d/1Ok0ACvvTvQWXpO_h-76IGshSxoJqZxih/view?usp=drive_link)
+📌 [View My Resume](https://drive.google.com/file/d/1WlyaG49JWsNm_0M-o1vWquDUJd0K0rdV/view?usp=drive_link)
 
 ---
 
